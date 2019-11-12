@@ -20,3 +20,14 @@
 .App-link {
   color: #09d3ac;
 }
+
+ul{ 
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  height: 37px;
+}
+
+.active {
+  color: red;
+}
